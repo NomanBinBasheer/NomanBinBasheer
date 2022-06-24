@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [nomanbinbasheer66626.netlify.com](nomanbinbasheer66626.netlify.com)
+- 👨‍💻 All of my projects are available at [nomanbinbasheer66626.netlify.com](nomanbinbasheer.netlify.com)
 
 - 💬 Ask me about **JavaScript | Node.js | React.js | MongoDB | CSS | HTML**
 
